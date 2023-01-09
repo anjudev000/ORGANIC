@@ -42,7 +42,7 @@
   border-radius: 60px;
 }
 .main{
-  background-image: url("/images/pic2.jpg");
+  background-image: url("images/pic2.jpg");
   background-size: cover;
   height: 100vh;
   background-position: 50% 50%;
